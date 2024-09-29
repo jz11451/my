@@ -1,0 +1,7 @@
+hostname =log-api.pangolin-sdk-toutiao-b.com ,p26-be-pack-sign.pglstatp-toutiao.com,p3-be-pack-sign.pglstatp-toutiao.com,api-access.pangolin-sdk-toutiao-b.com
+
+
+log-api.pangolin-sdk-toutiao-b.com url reject-200 
+p26-be-pack-sign.pglstatp-toutiao.com url reject-200 
+p3-be-pack-sign.pglstatp-toutiao.com url reject-200 
+api-access.pangolin-sdk-toutiao-b.com url reject-200
